@@ -3,8 +3,8 @@ Contributors: errnio
 Donate link: 
 Tags: mobile, share, facebook, twitter, whatsapp, send, connect, contact, monetization, make money, social
 Requires at least: 3.0
-Tested up to: 4.2
-Stable tag: trunk
+Tested up to: 4.2.2
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -105,8 +105,12 @@ info@errnio.com
 
 1.0 version release
 
+1.1 Register to errnio directly from the plugin settings page
+
 == Upgrade Notice ==
 
 0.1 beta release
 
 1.0 version release
+
+1.1 Register to errnio directly from the plugin settings page
