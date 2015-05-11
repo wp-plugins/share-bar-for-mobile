@@ -1,6 +1,6 @@
 ===Share Bar for Mobile===
+
 Contributors: errnio
-Donate link: 
 Tags: mobile, share, facebook, twitter, whatsapp, send, connect, contact, monetization, make money, social
 Requires at least: 3.0
 Tested up to: 4.2.2
