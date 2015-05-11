@@ -1,6 +1,6 @@
 ===Share Bar for Mobile===
+
 Contributors: errnio
-Donate link: 
 Tags: mobile, share, facebook, twitter, whatsapp, send, connect, contact, monetization, make money, social
 Requires at least: 3.0
 Tested up to: 4.2.2
@@ -105,7 +105,7 @@ info@errnio.com
 
 1.0 version release
 
-1.1 Register to errnio directly from the plugin's settings page
+1.1 Register to errnio directly from the plugin settings page
 
 == Upgrade Notice ==
 
@@ -113,4 +113,4 @@ info@errnio.com
 
 1.0 version release
 
-1.1 Register to errnio directly from the plugin's settings page
+1.1 Register to errnio directly from the plugin settings page
