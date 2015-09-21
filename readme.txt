@@ -112,6 +112,10 @@ No. We do not collect user information from your site. Our data policy is strict
 FOR MORE INFORMATION contact us at:
 info@errnio.com
 
+== Screenshots ==
+
+1. Sharebar
+
 == Changelog ==
 
 = 2.0 =
