@@ -3,8 +3,8 @@
 Contributors: errnio
 Tags: mobile, share, facebook, twitter, whatsapp, send, connect, contact, monetization, make money, social, marketing, share this, google+, google plus, social tools, website tools, sharing tools, content marketing
 Requires at least: 3.0
-Tested up to: 4.3
-Stable tag: 2.1
+Tested up to: 4.3.1
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
