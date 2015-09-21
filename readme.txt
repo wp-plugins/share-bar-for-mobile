@@ -4,7 +4,7 @@ Contributors: errnio
 Tags: mobile, share, facebook, twitter, whatsapp, send, connect, contact, monetization, make money, social, marketing, share this, google+, google plus, social tools, website tools, sharing tools, content marketing
 Requires at least: 3.0
 Tested up to: 4.3
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -121,6 +121,10 @@ info@errnio.com
 = 2.0 =
 * First version release
 
+= 2.1 =
+* First version update
+
 == Upgrade Notice ==
 
+**2.1 version update
 **2.0 version release
